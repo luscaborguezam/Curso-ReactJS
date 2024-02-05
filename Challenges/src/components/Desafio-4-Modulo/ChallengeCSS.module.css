@@ -1,0 +1,12 @@
+/* 4° Módulo */
+.TableCar{
+    margin: 10px 10px 10px 100px;
+    padding: 4px;
+    border: solid white;
+}
+
+.sucesso{
+    color: greenyellow;
+    text-align: center;
+    box-shadow: 0 2px 4px rgb(14, 94, 25); /* Ajuste conforme necessário */
+}
